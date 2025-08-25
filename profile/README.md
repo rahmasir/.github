@@ -13,6 +13,13 @@ The **Hammasir Bootcamp** is an initiative by **[Neshan Maps](https://neshan.org
 
 ---
 
+## Assets 🪙
+
+* **[roadmap](https://docs.google.com/spreadsheets/d/1P0yw116j3-e04XB8FrZn2kJ8Ic9FK_VQgqM4G--4ylM/edit?usp=sharing)**
+* **[me experiences](https://omigo.ir/r/c6a9)**
+
+---
+
 ## Our Goal 🎯
 
 Our goal is to apply the skills and knowledge acquired during the bootcamp to build efficient and scalable backend solutions. This repository serves as a portfolio of our collective work and a testament to our growth as developers.
